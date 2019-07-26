@@ -1,0 +1,7 @@
+p#hover_text {
+    transition: font-size 2s, color 5s;
+}
+p#hover_text:hover {
+    color: red;
+    font-size: 1000px;
+}
